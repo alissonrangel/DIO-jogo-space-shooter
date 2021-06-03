@@ -1,13 +1,13 @@
 # Projeto jogo Space Shooter
 
-## Recursos:
+## Recursos extras:
 
-* efeitos sonoros.
-* movimentos para todos os lados do herói.
-* movimentos convergentes dos inimigos para o herói.
+* efeitos sonoros
+* pontuação
+* novas imagens
 
-![alt text](https://github.com/alissonrangel/DIO-jogo-space-shooter/blob/main/images/velha.png?raw=true)
+![alt text](https://github.com/alissonrangel/DIO-jogo-space-shooter/blob/main/img/game.png?raw=true)
 
 ## jogue no link abaixo
 
-[Jogo da Velha](https://www.jogos.alissonescorcio.life/DIO-jogo-space-shooter/index.html "Jogo da Velha")
+[Jogo Space Shooter](https://www.jogos.alissonescorcio.life/DIO-jogo-space-shooter/index.html "Jogo Space Shooter")

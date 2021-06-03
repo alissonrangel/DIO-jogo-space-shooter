@@ -17,6 +17,14 @@ body{
   width: 600px;
 }
 
+.score{
+  display: none;
+  position: relative;
+  left: 500px;
+  top: 30px;
+  color: white;
+}
+
 .game-instructions{
   position: relative;
   color: white;
@@ -30,6 +38,10 @@ body{
   top: 9rem;
   left: 15rem;
   cursor: pointer;
+}
+.start-button img{
+  position: relative;
+  left: 13px;
 }
 
 .player-shooter{
