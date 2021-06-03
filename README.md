@@ -11,3 +11,7 @@
 ## jogue no link abaixo
 
 [Jogo Space Shooter](https://www.jogos.alissonescorcio.life/DIO-jogo-space-shooter/index.html "Jogo Space Shooter")
+
+## conheça nossos jogos feitos como exercícos da DIO
+
+[Jogos](https://www.jogos.alissonescorcio.life/index.html "Jogos")
